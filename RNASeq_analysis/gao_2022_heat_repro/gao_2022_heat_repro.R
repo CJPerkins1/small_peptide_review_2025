@@ -1,5 +1,4 @@
-# expression analysis of Gao et al. 2022 HS at reproductive stage
-#rna seq analysis for HS data on reproductive stages of arabidopsis Zhang et al. 2024 GSE184983
+# expression analysis of Gao et al. 2022 HS at reproductive stage GSE184983
 
 # Load necessary libraries
 library(DESeq2)

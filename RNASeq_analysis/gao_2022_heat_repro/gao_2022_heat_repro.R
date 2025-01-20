@@ -179,8 +179,8 @@ significant_genes <- list(
 results <- as.data.frame(fl_res)
 results <- results %>%
   mutate(Significance = case_when(
-    padj < 0.05 & log2FoldChange > 0.5 ~ "Upregulated",
-    padj < 0.05 & log2FoldChange < -0.5 ~ "Downregulated",
+    padj < 0.05 & log2FoldChange > 1 ~ "Upregulated",
+    padj < 0.05 & log2FoldChange < -1 ~ "Downregulated",
     TRUE ~ "Non-significant"
   ))
 

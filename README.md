@@ -1,6 +1,4 @@
-# small_peptide_review_2025
-
-The Role of Signaling Peptides in Plant Reproduction During Abiotic Stress
+# The Role of Signaling Peptides in Plant Reproduction During Abiotic Stress
 
 ----------------
 

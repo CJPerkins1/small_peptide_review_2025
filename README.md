@@ -19,8 +19,7 @@ Counts tables were downloaded as .gz files and read into RStudio manually.
 
 All differential gene expression analysis was performed using code available in the RNASeq_analysis folder.
 
-DEG result tables are available in the supplementary data.
-Supplementary data for the review article is provided as an excel file: HS_DEG_meta_analysis_results.xlsx
+DEG result tables are available as an excel file: HS_DEG_meta_analysis_results.xlsx
 
 ----------------
 

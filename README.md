@@ -37,6 +37,3 @@ bZIP17 regulates heat stress tolerance at reproductive stage in Arabidopsis
 Gao et al. 2022 aBIOTECH
 GSE184983
 
-Transcriptome and translatome changes in germinated pollen under heat stress uncover roles of transporter genes involved in pollen tube growth
-Poidevin et al. 2021 Plant Cell Environment (Saved as Rutley et al. 2021 who also used this dataset)
-GSE145795

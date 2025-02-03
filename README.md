@@ -1,4 +1,4 @@
-# The Role of Signaling Peptides in Plant Reproduction During Abiotic Stress
+# Peptide Signaling in Flowering Plants: Insights into Reproductive Thermotolerance
 
 ----------------
 

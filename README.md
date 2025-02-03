@@ -1,4 +1,17 @@
 # small_peptide_review_2025
+
+The Role of Signaling Peptides in Plant Reproduction During Abiotic Stress
+
+----------------
+
+Calvin J Perkins, Kelsey Pryze, and Ravishankar Palanivelu*
+
+School of Plant Sciences, University of Arizona, 
+Tucson, AZ 85721, USA
+
+*Author for Correspondence
+
+
 RNA-Seq meta analysis workflow for the small peptide review article
 
 ----------------
